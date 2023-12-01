@@ -1,0 +1,8 @@
+Depot compte courant effectué : 450000
+Date du dépot compte courant: 01/12/2023 14:35:14
+Retrait compte courant effectué : 75000
+Date retrait compte courant: 01/12/2023 14:35:14
+Depot compte epargne effectué : 50000
+Date du dépot compte epargne: 01/12/2023 14:35:14
+Retrait compte epargne effectué : 25000
+Date du retrait compte epargne: 01/12/2023 14:35:14

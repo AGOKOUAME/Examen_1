@@ -1,0 +1,7 @@
+E:\tafbasta\Programmation\tafDev\Exo_GestionCompteBancaire\Exo_GestionCompteBancaire\bin\Debug\Exo_GestionCompteBancaire.exe.config
+E:\tafbasta\Programmation\tafDev\Exo_GestionCompteBancaire\Exo_GestionCompteBancaire\bin\Debug\Exo_GestionCompteBancaire.exe
+E:\tafbasta\Programmation\tafDev\Exo_GestionCompteBancaire\Exo_GestionCompteBancaire\bin\Debug\Exo_GestionCompteBancaire.pdb
+E:\tafbasta\Programmation\tafDev\Exo_GestionCompteBancaire\Exo_GestionCompteBancaire\obj\Debug\Exo_GestionCompteBancaire.csprojAssemblyReference.cache
+E:\tafbasta\Programmation\tafDev\Exo_GestionCompteBancaire\Exo_GestionCompteBancaire\obj\Debug\Exo_GestionCompteBancaire.csproj.CoreCompileInputs.cache
+E:\tafbasta\Programmation\tafDev\Exo_GestionCompteBancaire\Exo_GestionCompteBancaire\obj\Debug\Exo_GestionCompteBancaire.exe
+E:\tafbasta\Programmation\tafDev\Exo_GestionCompteBancaire\Exo_GestionCompteBancaire\obj\Debug\Exo_GestionCompteBancaire.pdb
